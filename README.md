@@ -6,4 +6,4 @@ Requerimientos:
 Ubuntu 20.02 / Web3 / Python / Solidity / Json / Ganache / Infura / Etherum
 pip3 / solc.py / dotenv /
 
-gg.20twenty1@gmail.comhon 
+gg.20twenty1@gmail.com
